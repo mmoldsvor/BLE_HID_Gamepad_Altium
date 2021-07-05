@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Battery_Manager.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Battery_Manager.SchDoc|FileName=Gamepad_Schematic.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Battery_Manager.SchDoc|FileName=Gamepad_Sensors.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Battery_Manager.SchDoc|FileName=nrf52832_qfab_dcdc.SchDoc|SheetNumber=1
