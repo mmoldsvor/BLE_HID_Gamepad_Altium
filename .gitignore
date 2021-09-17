@@ -3,3 +3,5 @@ Project Logs*
 *.htm
 __Previews
 Project Outputs*
+*.mtl
+*.obj
